@@ -2,3 +2,5 @@ type some some staff for version control
 
 changes
 Great Changes!
+
+MHS Adding a line to create a conflict
