@@ -3,4 +3,6 @@ type some some staff for version control
 changes
 Great Changes!
 
-another line weiran conflict
+
+another line weiran conflic&MHS Adding a line to create a conflict
+
